@@ -1,0 +1,10 @@
+<xml>
+
+<module id="SubscriberExample">
+    <periodic>false</periodic>
+    <frequency>1.0</frequency>
+    <master>http://navio:11311</master>
+    <hostname>codebase</hostname>
+</module>
+
+</xml>

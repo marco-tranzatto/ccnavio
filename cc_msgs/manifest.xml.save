@@ -1,0 +1,13 @@
+<package>
+  <description brief="ccmain_pkt">
+
+     ccmain ros custom packets
+
+  </description>
+  <author>Vincenzo Calabro' </author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://www.calabrothers.com</url>
+  <depend package="geometry_msg">
+</package>
+

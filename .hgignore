@@ -1,0 +1,5 @@
+syntax: glob
+*.o
+cc_msgs/build*
+*.moc
+ext/navio/.git*

@@ -1,0 +1,10 @@
+<xml>
+
+<module id="mIMU">
+    <periodic>true</periodic>
+    <frequency>25.0</frequency>
+    <master>http://navio:11311</master>
+    <hostname>navio</hostname>
+</module>
+
+</xml>
