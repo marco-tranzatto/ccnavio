@@ -17,15 +17,15 @@ Demo software to test ROS and the implemented middleware abstraction.
 
 External dependencies (i.e. EMLID Navio C++ library)
 
-## include
+### include
 
 Headers for the middleware abstraction layer, including xml, ros, math and more.
 
-## lib
+### lib
 
 Math, ROS middleware abstraction, XML configuration handling and Programming by Contract implementation.
 
-## modules
+### modules
 
 EMLID Navio/Navio+ ready-to-go modules including:
 
@@ -35,7 +35,7 @@ EMLID Navio/Navio+ ready-to-go modules including:
 * mIMU:  IMU (cc_msgs::IMURaw) on Navio/Imu
 * mPWM:  RGBLed (cc_msgs::RGBLed) on Navio/Led and (cc_msgs::Servo) spread over different topics named Navio/Servo1-13
 
-## Downloading a ready-to-go SD Image including QT5 and ROS Indigo
+## RPi2 SD image with ccnavio
 
 Soon a Raspberry Pi 2 + Navio compatible with the ccnavio library will be released... stay tuned ;)
 
