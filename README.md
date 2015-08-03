@@ -35,8 +35,14 @@ EMLID Navio/Navio+ ready-to-go modules including:
 * mIMU:  IMU (cc_msgs::IMURaw) on Navio/Imu
 * mPWM:  RGBLed (cc_msgs::RGBLed) on Navio/Led and (cc_msgs::Servo) spread over different topics named Navio/Servo1-13
 
+## Tutorial
+
+A tutorial describing how to setup a Raspberry Pi2 was published into the
+[calabrothers](http://www.moosth.net/calabrothers/?p=595) website.
+
 ## RPi2 SD image with ccnavio
 
-Soon a Raspberry Pi 2 + Navio compatible with the ccnavio library will be released... stay tuned ;)
+A Raspberry Pi 2 + Navio compatible with the ccnavio library can be downloaded from
+a [MEGA repository](https://mega.co.nz/#!jZdgUYTa!4Mk-b3fG21gQTTRh2AVV7ArQE1Dew-1ff8wH8qrv_N0)
 
 

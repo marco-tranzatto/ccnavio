@@ -1,7 +1,7 @@
 syntax: glob
 *.o
-cc_msgs/build*
 *.moc
+cc_msgs/build*
 ext/navio/.git*
 demo/middleware_publisher/middleware_basic
 demo/middleware_subscriber/middleware_basic
